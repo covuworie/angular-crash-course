@@ -12,7 +12,7 @@ The code in this repository is based on [Traversy Media's](https://www.traversym
 1. You will be prompted to install the the recommended extensions if you open up the code folder in Visual Studio Code. There is only one extension - `Prettier` - which is a code formatter. The recommended extensions can be found in the `extensions.json` file in the `.vscode` directory should you wish to edit these. Likewise in the same directory you can find the `settings.json` file should you wish to edit the recommended settings. If you choose to not use Visual Studio code, you can always use step 4 instead to run prettier. 
 2. Run ```npm install``` from the project folder to install the dependencies listed in the `package.json` file.
 3. Run ```npm start``` from the project folder to launch the Angular development server. This command will launch the application in your default web browser and will watch for and compile changes to source files.
-4. Run ```npx prettier``` from the project folder to format all files in the project.
+4. Run ```npx prettier``` from the project folder whenever you make changes and wish to format all files in the project.
 
 ## Deployment
 
