@@ -5,7 +5,8 @@ The code in this repository is based on [Traversy Media's](https://www.traversym
 ## Prerequisites
 
 1. Install [nodejs](https://nodejs.org/).
-2. Install [Visual Studio Code](https://code.visualstudio.com/download) (optional).
+2. Install the [Angular CLI](https://angular.io/guide/setup-local).
+3. Install [Visual Studio Code](https://code.visualstudio.com/download) (optional).
 
 ## Running the code
 
